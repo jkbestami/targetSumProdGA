@@ -29,7 +29,8 @@ Then a number of "tournaments" happen:
 
   
 
-###############################################################################
+  
+
 geneticAlg.java and Individual.java should be in the same directory.
 
 to compile: javac geneticAlg.java
